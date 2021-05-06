@@ -1,10 +1,11 @@
 #|.metadata name longgame_wiki_implementation_racket.rkt
 .metadata created ty21.3.19.5.56.26azm4d5s
-.metadata (updated ty21.3.19.5.56.26azm4d5s ty21.5.5.20.43.02pzm4d3s ty21.5.5.20.49.22pzm4d3s 
+.metadata (updated ty21.3.19.5.56.26azm4d5s ty21.5.5.20.43.02pzm4d3s ty21.5.5.20.49.22pzm4d3s ty21.5.5.21.04.25pzm4d3s 
 )
 .metadata (creators jesscxc) (updaters jesscxc)
-.metadata (filename_extension rkt)
-.metadata site NoLiesPlease.com
+.metadata (filename_extension rkt) (site LonggameTech.com )
+.metadata language Longgamelang (version ty21.5.4.6.32.52azm4d2s)
+.metadata language Racket (version 8.1)
 .meta run with Racket (site racket-lang.org )
 |#
 #lang racket/gui
