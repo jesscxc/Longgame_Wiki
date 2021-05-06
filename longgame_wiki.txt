@@ -1,0 +1,10 @@
+.metadata name longgame_wiki
+.metadata created ty19.10.2.16.36.58pzm4d3s
+.metadata (updated ty19.10.2.16.36.58pzm4d3s ty21.5.5.19.57.37pzm4d3s ty21.5.5.20.21.02pzm4d3s 
+)
+.metadata (creators jesscxc) (updaters jesscxc)
+
+# longgame_wiki
+
+
+.
