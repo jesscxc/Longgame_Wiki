@@ -1,7 +1,7 @@
 
 # Longgame Wiki
 
-Interweave macro systems to go faster. (eg AutoHotkey, Sublime Text, etc)
+Abstract and interweave macro systems to go faster. (eg AutoHotkey, Sublime Text, VS Code, QMK, etc)
 
 ## License
 
