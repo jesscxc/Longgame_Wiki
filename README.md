@@ -37,7 +37,7 @@ macroable code editor
 Windows<br>
 high-level macros
 
-[QMK](https://qmk.fm/) keyboards<br>
+[QMK keyboards](https://qmk.fm/)<br>
 cross-platform (Windows, macOS, Linux)<br>
 keyboard-hardware macros
 
