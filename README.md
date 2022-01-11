@@ -9,10 +9,6 @@ Macros here are considered as information transformers. The language is programm
 
 # Macro Systems
 
-[AutoHotkey](https://www.autohotkey.com/)<br>
-Windows<br>
-low-level macros
-
 [Sublime Text](https://www.sublimetext.com/)<br>
 cross-platform (Windows, macOS, Linux)<br>
 macroable text editor
@@ -25,12 +21,8 @@ high-level macros
 cross-platform (Windows, macOS, Linux)<br>
 input device with chording macros
 
-[Karabiner-Elements](https://karabiner-elements.pqrs.org/)<br>
-macOS<br>
-low-level macros
-
-[Hammerspoon](http://www.hammerspoon.org/)<br>
-macOS<br>
+[AutoHotkey](https://www.autohotkey.com/)<br>
+Windows<br>
 low-level macros
 
 [VS Code](https://code.visualstudio.com/)<br>
@@ -48,6 +40,14 @@ keyboard-hardware macros
 [UtechSmart mice](http://www.utechsmart.com/download)<br>
 cross-platform (Windows, macOS, Linux)<br>
 mouse-hardware macros
+
+[Karabiner-Elements](https://karabiner-elements.pqrs.org/)<br>
+macOS<br>
+low-level macros
+
+[Hammerspoon](http://www.hammerspoon.org/)<br>
+macOS<br>
+low-level macros
 
 [TextExpander](https://textexpander.com/)<br>
 iOS<br>
