@@ -21,6 +21,10 @@ macroable text editor
 macOS<br>
 high-level macros
 
+[CharaChorder](https://www.charachorder.com/)<br>
+cross-platform (Windows, macOS, Linux)<br>
+input device with chording macros
+
 [Karabiner-Elements](https://karabiner-elements.pqrs.org/)<br>
 macOS<br>
 low-level macros
