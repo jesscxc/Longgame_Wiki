@@ -1,7 +1,7 @@
 
 # Longgame Wiki
 
-Abstract and interweave macro systems to go faster. (eg AutoHotkey, Sublime Text, VS Code, QMK, etc)
+Connect and interweave macro systems to go faster. (eg AutoHotkey, Sublime Text, VS Code, CharaChorder, etc)
 
 Create and organize macros using a programmable language that transpiles to different macro systems.
 
